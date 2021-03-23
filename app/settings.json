@@ -1,0 +1,15 @@
+{
+  "appname": "sfstudio",
+  "appport": "8081",
+  "mode": "window",
+  "window": {
+    "title": "Salesforce Studio",
+    "width": "1200",
+    "height": "840",
+    "fullscreen": false,
+    "alwaysontop": false,
+    "iconfile": "neutralino.png",
+    "enableinspector": false,
+    "borderlesswindow": false
+  }
+}
