@@ -1,7 +1,7 @@
 {
   "appname": "sfstudio",
   "appport": "8081",
-  "mode": "window",
+  "mode": "browser",
   "window": {
     "title": "Salesforce Studio",
     "width": "1200",

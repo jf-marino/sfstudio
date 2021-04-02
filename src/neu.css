@@ -41,3 +41,21 @@ body {
   font-size: 12px;
   font-weight: normal;
 }
+
+.error-marker {
+  position: absolute;
+  border-radius: 4px;
+  background: #ff9999;
+  margin-left: -4px;
+  margin-top: -4px;
+  padding: 4px;
+}
+
+.valid-marker {
+  position: absolute;
+  border-radius: 4px;
+  background: #e3f1ff;
+  margin-left: -4px;
+  margin-top: -4px;
+  padding: 4px;
+}
